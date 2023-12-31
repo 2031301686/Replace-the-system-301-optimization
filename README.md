@@ -1,6 +1,6 @@
 # 更换系统301优化
 
-项目介绍及使用教程：[https://wxsnote.cn](https://wxsnote.cn)
+项目介绍及使用教程：[https://wxsnote.cn/3762.html](https://wxsnote.cn/3762.html)
 
 天无神话开发，能力有限，勿喷
 ***
