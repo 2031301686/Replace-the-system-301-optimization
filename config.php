@@ -10,7 +10,7 @@ return [
     //跳转目标的协议头，https://或http://
     "scheme" => "https://",
     //网站标题
-    "title" => "聚力云博客文章已迁移",
+    "title" => "王先生笔记文章已迁移",
     //icp地址
     "icpurl" => "https://beian.cn/",
     //icp号
